@@ -1,7 +1,7 @@
 /**
  * 测试插值法
  * @author shxxy
- *
+ *时间复杂度：根据数据实际情况决定平均时长优于O（logn）
  */
 
 import java.io.*;
