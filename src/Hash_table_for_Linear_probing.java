@@ -51,4 +51,6 @@ public class Hash_table_for_Linear_probing {
 				tmp=(tmp+1)%INDEXBOX;//否则则往后找数据存放（线性探测法精髓）
 		}
 	}
+	
+
 }
